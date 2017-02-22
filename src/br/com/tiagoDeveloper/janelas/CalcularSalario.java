@@ -58,7 +58,7 @@ public class CalcularSalario extends javax.swing.JFrame {
 
         jLabel2.setText("Nome:");
 
-        jLabel3.setText("No. Salario:");
+        jLabel3.setText("No. Horas:");
 
         txtNoHoras.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
